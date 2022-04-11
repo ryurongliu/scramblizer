@@ -1,2 +1,2 @@
 # Scramblizer
-Kinetic sculpture made with ESP32 and motors, controlled through wifi connection to an online server.
+A Rubik's cube-inspired kinetic sculpture made with ESP32 and motors, controlled through wifi connection to an online server.
